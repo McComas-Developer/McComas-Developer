@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Languages](https://github.com/McComas-Developer/github-stats/blob/master/generated/languages.svg)
+![Github Stats](https://github.com/McComas-Developer/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **McComas-Developer/McComas-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
